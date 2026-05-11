@@ -64,7 +64,7 @@ Clicking on the activation link will begin the onboarding flow. For example:</p>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="./images/ActivationEmailForWPS.jpg" alt="ActivationEmailForWPS" width="60%">
+<img src="https://files.us.document360.io/ec5d82e2-88dc-4cc5-9e57-f56ea01dd0b4/Images/Documentation/Screenshot_1.png" alt="ActivationEmailForWPS" width="60%">
 </div>
 </div>
 </div>
