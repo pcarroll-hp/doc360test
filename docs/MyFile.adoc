@@ -1,2 +1,0 @@
-== Some asciidoc content
-Here
