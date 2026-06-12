@@ -127,7 +127,7 @@ If you are activating HP Wolf Pro Security (WPS) for the first time, see the Sel
 <p>Click <strong>Activate</strong>.</p>
 <div class="imageblock">
 <div class="content">
-<img src="/docs/.document360/assets/images/activiate-license.jpg" alt="Activate existing license">
+<img src="https://files.us.document360.io/ec5d82e2-88dc-4cc5-9e57-f56ea01dd0b4/Images/Documentation/activiate-license.jpg" alt="Activate existing license">
 </div>
 </div>
 </li>
