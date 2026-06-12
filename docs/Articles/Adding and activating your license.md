@@ -119,7 +119,7 @@ If you are activating HP Wolf Pro Security (WPS) for the first time, see the Sel
 <p>From the <strong>Licenses</strong> dashboard, click <strong>Buy or activate license</strong>.</p>
 <div class="imageblock">
 <div class="content">
-<img src="/docs/.document360/assets/images/add-license-dashboard.png" alt="Licenses dashboard with Add License option">
+<img src="https://files.us.document360.io/ec5d82e2-88dc-4cc5-9e57-f56ea01dd0b4/Images/Documentation/add-license-dashboard.png" alt="Licenses dashboard with Add License option">
 </div>
 </div>
 </li>
@@ -141,7 +141,7 @@ If you are activating HP Wolf Pro Security (WPS) for the first time, see the Sel
 <p>Click <strong>Next</strong> to continue.</p>
 <div class="imageblock">
 <div class="content">
-<img src="/docs/.document360/assets/images/enter-license-key.jpg" alt="Enter license key screen">
+<img src="https://files.us.document360.io/ec5d82e2-88dc-4cc5-9e57-f56ea01dd0b4/Images/Documentation/enter-license-key.jpg" alt="Enter license key screen">
 </div>
 </div>
 </li>
@@ -156,7 +156,7 @@ If you are activating HP Wolf Pro Security (WPS) for the first time, see the Sel
 <p>Click <strong>Next</strong>.</p>
 <div class="imageblock">
 <div class="content">
-<img src="/docs/.document360/assets/images/license-summary.jpg" alt="License summary and confirmation screen">
+<img src="https://files.us.document360.io/ec5d82e2-88dc-4cc5-9e57-f56ea01dd0b4/Images/Documentation/license-summary.jpg" alt="License summary and confirmation screen">
 </div>
 </div>
 </li>
@@ -167,7 +167,7 @@ If you are activating HP Wolf Pro Security (WPS) for the first time, see the Sel
 <p>Click <strong>Complete Registration</strong> to finish adding the license.</p>
 <div class="imageblock">
 <div class="content">
-<img src="/docs/.document360/assets/images/license-confirm.jpg" alt="License summary and confirmation screen">
+<img src="https://files.us.document360.io/ec5d82e2-88dc-4cc5-9e57-f56ea01dd0b4/Images/Documentation/license-confirm.jpg" alt="License summary and confirmation screen">
 </div>
 </div>
 </li>
@@ -182,7 +182,7 @@ If you are activating HP Wolf Pro Security (WPS) for the first time, see the Sel
 <p>Click <strong>Download Installer</strong> to download your personalised installer to install the software on additional devices.</p>
 <div class="imageblock">
 <div class="content">
-<img src="/docs/.document360/assets/images/license-activation-complete.jpg" alt="License summary and confirmation screen">
+<img src="https://files.us.document360.io/ec5d82e2-88dc-4cc5-9e57-f56ea01dd0b4/Images/Documentation/license-activation-complete.jpg" alt="License summary and confirmation screen">
 </div>
 </div>
 </li>
@@ -193,7 +193,7 @@ If you are activating HP Wolf Pro Security (WPS) for the first time, see the Sel
 <p>Once complete, the new license appears in the <strong>Licenses</strong> dashboard for your account.</p>
 <div class="imageblock">
 <div class="content">
-<img src="/docs/.document360/assets/images/license-added.jpg" alt="New license displayed in Licenses dashboard">
+<img src="https://files.us.document360.io/ec5d82e2-88dc-4cc5-9e57-f56ea01dd0b4/Images/Documentation/license-added.jpg" alt="New license displayed in Licenses dashboard">
 </div>
 </div>
 </li>
