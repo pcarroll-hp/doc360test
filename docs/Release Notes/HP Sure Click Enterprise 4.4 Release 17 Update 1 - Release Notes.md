@@ -6,7 +6,7 @@
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
-<img src="../../../shared/images/HP-Wolf-Security-RGB-Text-Logo.png" alt="HP Wolf Security Logo" width="45%">
+<img src="https://files.us.document360.io/ec5d82e2-88dc-4cc5-9e57-f56ea01dd0b4/Images/Documentation/HP-Wolf-Security-RGB-Text-Logo.png" alt="HP Wolf Security Logo" width="45%">
 </div>
 </div>
 <h1 id="_hp_sure_click_enterprise_4_4_release_17_update_1" class="discrete text-right">HP Sure Click Enterprise 4.4 Release 17 Update 1</h1>
