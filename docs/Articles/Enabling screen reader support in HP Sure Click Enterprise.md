@@ -147,7 +147,7 @@ JAWS (Job Access With Speech) requires Sure Click Enterprise 4.4 Release 17 (4.4
 <p><strong>View protected PDF documents in Secure Browser</strong></p>
 <div class="imageblock">
 <div class="content">
-<img src="./images/dashboard-accessibility-options.jpg" alt="Wolf Dashboard Accessibility Options" width="70%">
+<img src="https://files.us.document360.io/ec5d82e2-88dc-4cc5-9e57-f56ea01dd0b4/Images/Documentation/dashboard-accessibility-options.jpg" alt="Wolf Dashboard Accessibility Options" width="70%">
 </div>
 </div>
 </li>
